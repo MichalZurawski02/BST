@@ -25,7 +25,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/ss.png)
+![Example screenshot](./img/ss0.png)
 ![Example screenshot](./img/ss1.png)
 ![Example screenshot](./img/ss2.png)
 ![Example screenshot](./img/ss4.png)

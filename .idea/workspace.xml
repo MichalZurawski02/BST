@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee6d4a24-5ceb-49b6-8b81-71dd6f1471d2" name="Changes" comment="parsers added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handlers/deleteHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handlers/drawHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handlers/insertHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handlers/myHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handlers/searchHandler.java" afterDir="false" />
+    <list default="true" id="ee6d4a24-5ceb-49b6-8b81-71dd6f1471d2" name="Changes" comment="handlers added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/myButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/treeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Server/consoleInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Server/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Server/unknownCaseException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656373508572</updated>
       <workItem from="1656373509995" duration="1585000" />
-      <workItem from="1656376941548" duration="299000" />
+      <workItem from="1656376941548" duration="940000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1656373909886</created>
@@ -73,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656376747369</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="handlers added">
+      <created>1656377247425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656377247425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="parsers added" />
-    <option name="LAST_COMMIT_MESSAGE" value="parsers added" />
+    <MESSAGE value="handlers added" />
+    <option name="LAST_COMMIT_MESSAGE" value="handlers added" />
   </component>
 </project>

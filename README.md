@@ -1,6 +1,5 @@
 # Binary Search Tree app
 > App performes all basic operations on bianry search tree.
-> Live demo [_here_](https://youtu.be/YTdKKvS2taI).
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
@@ -26,7 +25,10 @@ List the ready features here:
 
 
 ## Screenshots
+![Example screenshot](./img/ss.png)
 ![Example screenshot](./img/ss1.png)
+![Example screenshot](./img/ss2.png)
+![Example screenshot](./img/ss4.png)
 
 
 ## Setup

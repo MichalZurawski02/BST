@@ -11,6 +11,9 @@
 * [To do](#to-do)
 * [Contact](#contact)
 
+## General Information
+The BST operations are performed on local server. Client request operation via GUI. There is no logic in Client app.
+
 ## Technologies Used
 - Java 17
 - JavaFX - 19-ea+8
@@ -29,6 +32,7 @@ List the ready features here:
 ## Setup
 For fastest setup you need IntelliJ and just click run. If you don't have IntelliJ, download Java SE Development Kit 17 and Maven. All of dependencies are in pom.xml file.
 
+Firstly You need to run method main from server class then run main from main from Main class(it starts GUI).
 
 ## Project Status
 Project in progress.
